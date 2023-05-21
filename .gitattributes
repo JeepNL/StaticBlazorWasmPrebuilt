@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# integrity check/failures
+# see: https://learn.microsoft.com/en-us/aspnet/core/blazor/host-and-deploy/webassembly?view=aspnetcore-8.0#github-pages
+*.js binary
